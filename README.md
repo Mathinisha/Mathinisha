@@ -48,3 +48,4 @@
 - [Project: Automating AWS with Ansible - Hello, Ansible!](https://dev.to/mathinisha/project-automating-aws-with-ansible-hello-ansible-589o)
 - [Monitoring an EC2 Instance with CloudWatch Alarm on AWS](https://dev.to/mathinisha/monitoring-an-ec2-instance-with-cloudwatch-alarm-on-aws-25be)
 - [Mastering AWS CLI Commands for User Management](https://dev.to/mathinisha/mastering-aws-cli-commands-for-user-management-21bp)
+- [EKS Backups made easy with Velero for Disaster Recovery](https://medium.com/searce/eks-backups-made-easy-with-velero-for-disaster-recovery-c9090c3ba619)
